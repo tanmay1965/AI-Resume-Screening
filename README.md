@@ -15,4 +15,4 @@ This project ranks resumes based on job descriptions using **Python, TF-IDF, and
 
 
 ## Author
-👨‍💻 Your Name
+👨‍💻 Challa Tanmay
